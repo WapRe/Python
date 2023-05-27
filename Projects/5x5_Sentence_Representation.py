@@ -1,7 +1,7 @@
 # You can enter a sentence into the function, and if all the characters included are within the 'patterns' dictionary, it will return a 5x5 representation of the sentence. 
-#Otherwise, it will inform that it is not contemplated. 
-#Derived from an exercise while studying, 
-#I thought it would be fun to extend the code to be able to contemplate most characters that can be represented in a 5x5 pattern.
+# Otherwise, it will inform that it is not contemplated. 
+# Derived from an exercise while studying, 
+# I thought it would be fun to extend the code to be able to contemplate most characters that can be represented in a 5x5 pattern.
 
 
 def print_sentence(character):
